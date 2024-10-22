@@ -1,0 +1,7 @@
+Passos:
+git init
+git add .
+git commit -m "mensagem"
+git branch -M main
+git remote add origin https://github.com/evanoinogueira/aula_github.git
+git push -u origem main
